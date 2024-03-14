@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/users/nisa.ampolu/MLFLOW_PRACTICE/mlruns/0/ed87157c23d24fdd96ea4356412d93ba/artifacts
+end_time: 1710404522562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed87157c23d24fdd96ea4356412d93ba
+run_name: ''
+run_uuid: ed87157c23d24fdd96ea4356412d93ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710404454938
+status: 3
+tags: []
+user_id: nisaampolu

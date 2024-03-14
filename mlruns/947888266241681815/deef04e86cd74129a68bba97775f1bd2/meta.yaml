@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/users/nisa.ampolu/MLFLOW_PRACTICE/mlruns/947888266241681815/deef04e86cd74129a68bba97775f1bd2/artifacts
+end_time: 1710404009273
+entry_point_name: ''
+experiment_id: '947888266241681815'
+lifecycle_stage: active
+run_id: deef04e86cd74129a68bba97775f1bd2
+run_name: gentle-calf-878
+run_uuid: deef04e86cd74129a68bba97775f1bd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710403942522
+status: 3
+tags: []
+user_id: nisaampolu

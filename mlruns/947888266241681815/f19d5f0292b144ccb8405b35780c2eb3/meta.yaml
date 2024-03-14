@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/users/nisa.ampolu/MLFLOW_PRACTICE/mlruns/947888266241681815/f19d5f0292b144ccb8405b35780c2eb3/artifacts
+end_time: 1710404060520
+entry_point_name: ''
+experiment_id: '947888266241681815'
+lifecycle_stage: active
+run_id: f19d5f0292b144ccb8405b35780c2eb3
+run_name: resilient-fox-251
+run_uuid: f19d5f0292b144ccb8405b35780c2eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710404034222
+status: 3
+tags: []
+user_id: nisaampolu
